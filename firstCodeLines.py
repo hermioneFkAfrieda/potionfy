@@ -1,3 +1,6 @@
-x=3
-y=2
-print(x+y)
+print("add two numbers")
+print("first number")
+x = input()
+print("second number")
+y = input()
+print("This is the result: ",x,"plus",y,"is",x+y)
